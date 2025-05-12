@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.btn-carrinho {
+  margin: 30px;
+  border: 2px solid black;
+  border-radius: 30px;
+  padding: 3px;
+}
+.btn-carrinho:hover {
+  cursor: pointer;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  gap: 20px;
+}
+.menu li a {
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 4px;
+  transition: 0.3s;
+}
+.menu li a:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
+
+.cabecalho {
+  margin-top: 0;
+}/*# sourceMappingURL=style.css.map */
