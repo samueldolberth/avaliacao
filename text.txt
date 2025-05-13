@@ -1,5 +1,0 @@
--- alterando via vscode
-testando controle de versionamento
-
--- alterando via github
-testando mudanças
